@@ -1,0 +1,1 @@
+INSERT INTO Products(name, price, imageUrl) VALUES('Hat', $10.99, 2)
